@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [mdnaveenkumar.web.app](mdnaveenkumar.web.app)
+- 👨‍💻 All of my projects are available at [mdnaveenkumar.web.app](https://mdnaveenkumar.web.app)
 
-- 📝 I regularly write articles on [https://medium.com/@naveen9715568487](https://medium.com/@naveen9715568487)
+- 📝 I regularly write articles on [medium](https://medium.com/@naveen9715568487)
 
 - 💬 Ask me about **React,node js,react native and python**
 
