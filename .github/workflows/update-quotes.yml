@@ -30,4 +30,4 @@ jobs:
           git config --global user.email 'naveen9715568487@gmail.com'
           git add .
           git commit -am "Daily quotes"
-          git push origin master
+          git push origin main
