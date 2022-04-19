@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar M</h1>
 <h3 align="center">An enthusiastic and active web developer.</h3>
 <br/>
-<p quote align='center'>You can complain because roses have thorns, or you can rejoice because thorns have roses.</p quote>
+<h1 quote align='center'>He who lives in harmony with himself lives in harmony with the universe.</h1 quote>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarmd&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumarmd" /> </p>
 
