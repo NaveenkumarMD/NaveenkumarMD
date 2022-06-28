@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar M</h1>
 <h3 align="center">An enthusiastic and active web developer.</h3>
 <br/>
-<h2 quote align='center'>The place to improve the world is first in one's own heart and head and hands.</h2 quote>
+<h2 quote align='center'>Where there is great love, there are always miracles.</h2 quote>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarmd&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumarmd" /> </p>
 
