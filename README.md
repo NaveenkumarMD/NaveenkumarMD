@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar M</h1>
 <h3 align="center">An enthusiastic and active web developer.</h3>
 <br/>
-<h2 quote align='center'>The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.</h2 quote>
+<h2 quote align='center'>Efficiency is doing things right; effectiveness is doing the right things.</h2 quote>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarmd&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumarmd" /> </p>
 
