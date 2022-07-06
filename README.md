@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar M</h1>
 <h3 align="center">An enthusiastic and active web developer.</h3>
 <br/>
-<h2 quote align='center'>To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.</h2 quote>
+<h2 quote align='center'>Do, or do not. There is no try.</h2 quote>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarmd&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumarmd" /> </p>
 
