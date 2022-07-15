@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar M</h1>
 <h3 align="center">An enthusiastic and active web developer.</h3>
 <br/>
-<h2 quote align='center'>There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.</h2 quote>
+<h2 quote align='center'>To be tested is good. The challenged life may be the best therapist.</h2 quote>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarmd&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumarmd" /> </p>
 
