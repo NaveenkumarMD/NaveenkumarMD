@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently **tirelessly working to pass my exams😪😪😪**
 
-- 👨‍💻 All of my projects are available at [mdnaveenkumar.web.app](https://mdnaveenkumar.web.app)
+- 👨‍💻 All of my projects are available at [mdnaveenkumar.web.app](https://mdnaveenkumar2002.web.app)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@naveen9715568487)
 
