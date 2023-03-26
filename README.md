@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar M</h1>
 <h3 align="center">An enthusiastic and active web developer.</h3>
 <br/>
-<h2 quote align='center'>We never understand how little we need in this world until we know the loss of it.</h2 quote>
+<h2 quote align='center'>Let us always meet each other with smile, for the smile is the beginning of love.</h2 quote>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarmd&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumarmd" /> </p>
 
