@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data structures and Algorithms**
 
-- 🌱 I’m currently **tirelessly working to pass my exams😪😪😪**
+- 🌱 I’m currently **working with backbone and react**
 
 - 👨‍💻 All of my projects are available at [mdnaveenkumar.web.app](https://mdnaveenkumar2002.web.app)
 
