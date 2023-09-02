@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar M</h1>
-<h3 align="center">An enthusiastic and active web developer.</h3>
+<h3 align="center">Frontend developer.</h3>
 <br/>
 <h2 quote align='center'>Let us always meet each other with smile, for the smile is the beginning of love.</h2 quote>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarmd&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumarmd" /> </p>
 
-- 🔭 I’m currently working on **Data structures and Algorithms**
+- 🔭 I’m currently working on **Striim**
 
 - 🌱 I’m currently **working with backbone and react**
 
